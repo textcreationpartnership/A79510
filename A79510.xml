@@ -1,0 +1,781 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The inhumanity of the Kings prison-keeper at Oxford. Or a true relation of the most transcendent cruelties, cheatings, cozenings, and base dishonest dealings of William Smith Provest [sic] Marshall General of the Kings Army, against the Parliament prisoners under his custody. As it was delivered at the Barre in the House of Commons, by one, who with many others, were sworne before the Lords assembled in Parliament, and were prisoners in Oxford six moneths, being further confirmed by Captain Wingate in the Commons House, he being Member of the said House, and some time prisoner in Oxford, the space of 9. moneths. Together, with the copy of a letter from a Gentleman of quality confirming the former particulars. Also the copy of a petition and articles exhibited to the King, his councell of warre against Smith. Likewise a letter to the Speaker, subscribed with 70. prisoners hands. Whereunto is added the unsufferable cruelties, exercised upon the Cirencester men, in their passage to Oxford, and at Oxford, in the castle and Bride-vvell, vvhen they were taken. Written by Edm. Chillenden. who was a prisoner there 6. moneths. Printed according to order.</title>
+            <author>Chillenden, Edmund, fl. 1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79510</idno>
+            <idno type="STC">Wing C3876</idno>
+            <idno type="STC">Thomason E63_17</idno>
+            <idno type="STC">ESTC R9315</idno>
+            <idno type="EEBO-CITATION">99873519</idno>
+            <idno type="PROQUEST">99873519</idno>
+            <idno type="VID">125996</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79510)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125996)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E63[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The inhumanity of the Kings prison-keeper at Oxford. Or a true relation of the most transcendent cruelties, cheatings, cozenings, and base dishonest dealings of William Smith Provest [sic] Marshall General of the Kings Army, against the Parliament prisoners under his custody. As it was delivered at the Barre in the House of Commons, by one, who with many others, were sworne before the Lords assembled in Parliament, and were prisoners in Oxford six moneths, being further confirmed by Captain Wingate in the Commons House, he being Member of the said House, and some time prisoner in Oxford, the space of 9. moneths. Together, with the copy of a letter from a Gentleman of quality confirming the former particulars. Also the copy of a petition and articles exhibited to the King, his councell of warre against Smith. Likewise a letter to the Speaker, subscribed with 70. prisoners hands. Whereunto is added the unsufferable cruelties, exercised upon the Cirencester men, in their passage to Oxford, and at Oxford, in the castle and Bride-vvell, vvhen they were taken. Written by Edm. Chillenden. who was a prisoner there 6. moneths. Printed according to order.</title>
+                  <author>Chillenden, Edmund, fl. 1656.</author>
+               </titleStmt>
+               <extent>[2], 14 [i.e. 28], [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.D. for John Bull,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P. 28 misnumbered 14. Variant: p. 28 correctly numbered.</note>
+                  <note>The last leaf bears "A postscript".</note>
+                  <note>Annotation on Thomason copy: "Aug: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Smith, William, --  Provost Marshall General.</term>
+               <term>Wingate, --  Captain.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Prisoners and prisons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125996:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE</hi> INHUMANITY OF THE Kings Priſon-Keeper At OXFORD.</p>
+            <p>Or a true Relation of the moſt tranſcendent cruelties, cheat<g ref="char:EOLhyphen"/>ings, cozenings, and baſe diſhoneſt dealings of <hi>William Smith</hi> Proveſt Marſhall General of the Kings Army, againſt the <hi>Parliament Priſoners</hi> un<g ref="char:EOLhyphen"/>der his cuſtody. As it was delivered at the Barre in the Houſe of Com<g ref="char:EOLhyphen"/>mons, by one, who with many others, were ſworne before the Lords aſſembled in <hi>Parliament,</hi> and were priſoners in <hi>Oxford</hi> ſix Moneths, being further confirmed by Captain <hi>Win<g ref="char:EOLhyphen"/>gate</hi> in the <hi>Commons</hi> Houſe, he being Member of the ſaid Houſe, and ſome time priſoner in <hi>Oxford,</hi> the ſpace of 9. Moneths.</p>
+            <p>TOGETHER. With the Copy of a Letter from a Gentleman of quality confirming the former particulars.</p>
+            <p>Alſo the Copy of a Petition and Articles exhibited to the King, His Councell of Warre againſt <hi>Smith.</hi>
+            </p>
+            <p>Likewiſe a Letter to the Speaker, ſubſcribed with 70. Priſoners hands.</p>
+            <p>Whereunto is added the unſufferable cruelties, exerciſed upon the <hi>Cirenceſter</hi> men, in their paſſage to <hi>Oxford,</hi> and at <hi>Oxford,</hi> in the Caſtle and Bride-vvell, vvhen they were taken.</p>
+            <p>
+               <hi>Written by</hi> Edm. Chillenden. <hi>who was a Priſoner there</hi> 6. <hi>Moneths.</hi>
+            </p>
+            <p>
+               <hi>Printed according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. D.</hi> for <hi>John Bull,</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:125996:2"/>
+            <pb n="1" facs="tcp:125996:2"/>
+            <head>
+               <hi>A True</hi> RELATION OF The trancendent Cruelties, and baſe inhu<g ref="char:EOLhyphen"/>mane practiſes of Captain <hi>William Smith, Pro.</hi> Marſhall, Generall of the Kings Army, ex<g ref="char:EOLhyphen"/>tended &amp; exerciſed on the Parliament Pri<g ref="char:EOLhyphen"/>ſoners in the Caſtle at <hi>OXFORD.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">V</seg>Pon the fifth of <hi>Decemb.</hi> 1642. I was tra<g ref="char:EOLhyphen"/>velling upon the Road about my lawfull occaſions, and in my journey towards <hi>New<g ref="char:EOLhyphen"/>bury,</hi> between <hi>Henly</hi> and <hi>Reading:</hi> I met with one, whoſe name was (as after I was informed) <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hithe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and falling into diſ<g ref="char:EOLhyphen"/>courſe, asked him the beſt and readieſt way towards <hi>Ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bury,</hi> which he certified me was through <hi>Reading.</hi> But I anſwered him I was loath to goe that way becauſe of the Gariſon, and for feare of giving offence, he replied to me, that if I pleaſed to to goe that way, he would do me ſo much favour as to have me through <hi>Reading</hi> without any let or ſtay, <hi>I</hi> giving credit to him, went with him into <hi>Reading,</hi> and ſet up my horſe at the <hi>Beare,</hi> where we ſupped together and there did Inne all night on the morrow early in the morning (the aforeſaid) <hi>Whithead,</hi> came to my chamber and certified me, I muſt goe before the Governour which was Sir <hi>Arther Aſhton</hi> (a ranke <hi>Papiſt</hi> as I am informed,) being come thither, there was alſo Colonell <hi>Feelding,</hi> which knew me to be a <hi>Londoner,</hi> and takes me by the hand and ſweares he was very glad he had met with me, and ſo
+<pb n="2" facs="tcp:125996:3"/> certified the Governour that I was as arrant a Round headed. Rogue and Traytor as any was in <hi>England</hi> and one that hath 700. men to command at any time to aid the Parliament. With that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Governour without any further examination, ſwore at m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bitterly and calls me dam'd Rogue &amp; Traytor and with that ſtrook me with his Cane on the head,<note place="margin">This cariage of <hi>Aſhton</hi> &amp; <hi>Feil<g ref="char:EOLhyphen"/>ding</hi> is not to be pa a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eld in <hi>Tur y</hi> many pa <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the World.</note> and brook it very ſorely and ſwore like a mad man that he would preſently hang me; and with a guard of Musquetiers did ſend me to the Gal<g ref="char:EOLhyphen"/>lowes, where I ſtood ſome quarter of an houre, expecting death: but ſuch was Gods goodneſſe toward me, that I was convey'd from thence to Priſon, whither came the aforeſaid <hi>Whethead,</hi> and in the name of the Governour took away my Moneyes: On the next Lords day I was conveyed to <hi>Wallingford,</hi> and the Wedneſday following to <hi>Abington.</hi> I being brought before the Governour,<note place="margin">A very moder<g ref="char:EOLhyphen"/>ate <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ivill Gen<g ref="char:EOLhyphen"/>tleman.</note> Lievtenant Colonell <hi>Sherly,</hi> there being divers Ca<g ref="char:EOLhyphen"/>valiers in his company, and one whoſe name was <hi>Smith,</hi> that had the watch that day, he would needs have me to ſay the Lords Prayer over to him, which I refuſed: Yet to give him ſatisfaction I told him, if he pleafed to lend me a Bible, I would read the Chapter over where that was, but that would not content him, he ſwore he would lay me neck and heels in Irons, which to prevent, I addreſſed to the Governour, and ſaid, Sir, I conceive I am your Priſoner, and this Gentleman ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h nothing to doe with me, and if it be your pleaſure to put me in Irons I am content.<note place="margin">This is not <hi>Smith</hi> the Mar<g ref="char:EOLhyphen"/>ſhall, but a Cap<g ref="char:EOLhyphen"/>tain of a foot Company.</note> With that the Governour ſaid, you came without Irons to me, and without you all go away: but <hi>Smith</hi> ſwore I ſhould not; they ſwore ſo long, that they fell to blowes and by this difference by Gods providence I received mercy from the Governour. So the next day being Thurſday I was convey'd to <hi>Oxford</hi> Caſtle.<note place="margin">Who afforded me a good ſup<g ref="char:EOLhyphen"/>per and bed at the Provoſe Marſhalls <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uar<g ref="char:EOLhyphen"/>ter that night.</note> But to leave my particular ſuf<g ref="char:EOLhyphen"/>ferings, and come to give you a relation of others, I ſhall begin with a relation of the uſuage of the Priſoners taken at <hi>Malborough,</hi> (in the County of <hi>Wilts</hi>) by the Cavaliers in their paſſage to <hi>Oxford.</hi>
+            </p>
+            <p>After they had ſurpriſed the Town, and had taken 180. odde Priſoners they drove many of them through the waters and the firſt night thruſt them all up into a naſty ſtinking ſtable a<g ref="char:EOLhyphen"/>mongſt Horſes; where was one horſe dead, there they continu<g ref="char:EOLhyphen"/>ed till the next morning, and had no food allowed them, and
+<pb n="3" facs="tcp:125996:3"/> ſo drove them like Rogues and theeves, tied together by the armes in the horſe way up to the knees in mire and dirt, and allowed no food to them, nor ſuffered no friend to come at them; for a man coming to ſee ſome of them, was carried away to <hi>Oxon</hi> to Priſon with them, and in foure daies time, as they were drove from <hi>Malbrough</hi> to <hi>Oxford,</hi> were allowed no food but only at <hi>Lamburne,</hi> a Gentleman did provide ſome for them: but they would ſcarce give time to receive it, and that was all the ſuſtenance they had in all their paſſage, not ſo much as wa<g ref="char:EOLhyphen"/>ter, for ſome of them being drie, would faine have dranke of the water in the high way, but they would not ſuffer them, nay, they ſtrook many of them over the heads with their Canes for ſtooping to take a piece of Ice to hold in their mouths to quench their violent thirſt.</p>
+            <p>On Friday they came to <hi>Oxford;</hi> and as they paſſed through the ſtreets towards the Caſtle, there was much rejoycing by the Inhabitants, Scollers, and Souldiers, calling them Round-headed Rogues and Traytors, and ſtriking ſome of them. One paſſage is worthy obſervation, that the Lord <hi>George Digby</hi> and Commiſſary <hi>Wilmot</hi> took Maſter <hi>Iohn Franklin,</hi>
+               <note place="margin">By this you may ſee how the Lord Digbie, and she now Lord Wil<g ref="char:EOLhyphen"/>mot loves the Houſe of Com<g ref="char:EOLhyphen"/>mons,</note> Member of the Houſe of Commons, and led him away from all the reſt of the Priſoners, to a Tree, and there ſwore deeply they would hang him like a damn'd Rogue and Traytor, if he would not confeſſe where his Money was. And this is a ſhort Relation of theſe mens ſufferings before they came into the Caſtle.</p>
+            <p>Now you ſhall know our uſage after we were in the Caſtle, under Captaine <hi>William Smith,</hi>
+               <note place="margin">This is not <hi>Smith</hi> the Fen<g ref="char:EOLhyphen"/>cer, his name is <hi>Thomas Smith<g ref="char:punc">▪</g>
+                  </hi>
+               </note> the firſt night we were put up into the Tower, 180. od, the place being ſo little that we were forced to lie one upon another, and were allowed one penny bread a peace, and a Can of ſmall Beere (water was better) and ſo for the beſt part of 13. nay ſome of us 23. weeks, were al<g ref="char:EOLhyphen"/>lowed no more. Some of us have many times been two daies without any thing at all, ſo that by this cruelty, and living on the boards, many fell ſick and very weak in body almoſt all of us like to periſh and end our daies by the bloody flux, and one of us was ſtarved to death; and as this man was drawing on to<g ref="char:EOLhyphen"/>wards his end Marſhall <hi>Smith</hi> was ſollicited in all the faire waies that poſsible could be, by the Gentlemen and the Cap<g ref="char:EOLhyphen"/>taines there in Priſon, that he would ſuffer ſome thing to be
+<pb n="4" facs="tcp:125996:4"/> provided for the poore man but ſuch was his crueltie, that he would not, and ſo the man died.</p>
+            <p>
+               <note place="margin">He ſaies it was a baſe <hi>Proteſta<g ref="char:EOLhyphen"/>tion,</hi> onely fra<g ref="char:EOLhyphen"/>med by a com<g ref="char:EOLhyphen"/>pany of ebels and Traytors to take away the King-Crown and life.</note>Some few daies after, he called us to take the Proteſtation, (which he ſtilled the Kings, we deſired to heare it read over to us, which when we had heard it, we refuſed it, as being againſt our Conſciences, telling him we had taken one already, which was the King and Parliaments, he ſwore at us, and call'd us damn'd Rogues and Traytors, ſtriking us with his Cane, drives us all up into the Tower, ſwearing deeply he would make us take it or he would make us to ſhit as ſmall as a Rat:<note place="margin">But he was for<g ref="char:EOLhyphen"/>ſworne, for we ſhewed him a faire paire of heels.</note> whereup<g ref="char:EOLhyphen"/>on he gives command that no body be permitted to come at us to relieve us, either with food or linen, cauſes a hole to be made up where things uſed to be conveyed to us, and confined us to our former allowance, and charge was given upon pain of death that no more ſhould be allowed us, or any thing elſe permitted to come at us, which was accordingly done, for food being ſent to us out of the Citie by ſome he cauſed his Souldiers to take it way and eat it. Then the Gentlemen and Captaines impriſo<g ref="char:EOLhyphen"/>ned, made a weekly Purſe for the reliefe of the poore Priſoners (and made<note n="*" place="margin">A <hi>Lievtenant</hi> of Horſe.</note> Lievtenant <hi>W. Dingly</hi> Steward of it) vvhich if they had not done I am very confident, vve ſhould halfe of us have periſhed. He cauſes this to be reſtrained, and threatens the Ste<g ref="char:EOLhyphen"/>vvard to lock him up cloſe Priſoner, if he did after offer to re<g ref="char:EOLhyphen"/>lieve us vvith Bread or Beere.</p>
+            <p>Some ſmall time after this, Sir <hi>Iames Penimon</hi> vvanting Soul<g ref="char:EOLhyphen"/>diers, they called us dovvne into the yard, and as vve paſſed through the great Chamber, vvhere at leaſt 12 or 14. Gentle<g ref="char:EOLhyphen"/>men lodged, and had vvaſhed their hands in a Baſon of vvater, ſuch vvas our extreame drought, that vve could not be reſtrain<g ref="char:EOLhyphen"/>ed from drinking it yea the very raine vvater that vvas on the Barrels heads that ſtood in the yard.</p>
+            <p>There they propounded to us, that if vve vvould take the Proteſtation, and take up Armes to ſerve in that Armie vve ſhould preſently be all releaſed. We all refuſed it, vvith that <hi>Peniman</hi> ſvvore at us, and <hi>Smith</hi> ran after us as faſt as his lame legs vvould giv him leave drives us all up again into the Tovv<g ref="char:EOLhyphen"/>er ſtriking us vvith his Cane, <hi>ſwearing deeply that he would wake take it,</hi> or he vvould make us to ſhit as ſmall as a Rat; and ſo kept us ſtill to our former allovvance.</p>
+            <pb n="6" facs="tcp:125996:4"/>
+            <p>
+               <hi>When they had tryed by all theſe wayes of cruelty,</hi> they had or could extend to us in the Caſtle, then they ſought by faire meanes to win us, and Sir <hi>Iames Peniman,</hi> and <hi>Smith,</hi> calls us all downe into the yard, and there they argue the caſe to us, and alleadge the Scripture to us, (as the Divell did to Chriſt) but when they ſaw that by this they could not prevaile with us, they ſwore moſt bitterly at us, and Sir <hi>Iames Peniman</hi> ſwore God dam me, none of us all did belong to Salvation, but wee were a Company of damned Rogues, Rebells, and Traytors, and ſwore we ſhould bee made to take the Proteſta<g ref="char:EOLhyphen"/>tion, for we ſhould have no Victuals allowed us, ſaying they that would not worke ſhould not eate,<note n="*" place="margin">But after this 14. were remo<g ref="char:EOLhyphen"/>ved out of the Dungeon to an upper Chamber ſo little, that we could but lie down, when we went to ſleepe.</note> and ſo wee were kept without any thing for a day and above; And to extend his Cruelty, and in<g ref="char:EOLhyphen"/>creaſe our miſery, <hi>Smith</hi> cauſes us on Munday <hi>Feb.</hi> 6. to be remo<g ref="char:EOLhyphen"/>ved from the Caſtle to Bridewell to the Dungeon, where we were above 40 of us put down into it, about foure Weekes thronged, in ſo little Roome, that woe were ſcarſe able to ſtirre one by another,<note n="*" place="margin">There being never a houſe of Office.</note> the place alſo being made very noyſome, becauſe wee eaſed our ſelves in the ſame, ſo that in ſome place of it, we might goe over the ſhooes in Piſſe and filth.</p>
+            <p>About a Fortnight after, woe had bin there: A Petition that we had made to the Lord Generall of that Army, and a Letter that was written to <hi>London,</hi> ſetting forth the barbarous uſage of us by <hi>Smith,</hi> came out in P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>int<note n="*" place="margin">The Letter was Printed in my name, which is <hi>Edmund Chil<g ref="char:EOLhyphen"/>le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>den,</hi> which <hi>Smith</hi> would have fathe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed on mee, but hee could not prove it. But this Let<g ref="char:EOLhyphen"/>ter and Petition netled <hi>Smith,</hi> that he gave the Capt. and Gent. a great deale of Liberty upon it.</note> Whereupon the Generall as wee con<g ref="char:EOLhyphen"/>ceive appointed Commiſſioners to examine the truth of the things contained in the Letter and Petition, and on Mu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>day <hi>Feb.</hi> 22. Six of us, namely, <hi>Edmund Chillenden, Thomas Cheny, Edward Leader, Ed<g ref="char:EOLhyphen"/>ward Bradney, William Whitlawe, Ioſeph Bliſes,</hi> were like Felons and Rogues brought through the Streets in Irons to Sir <hi>Iacob Aſhleys,</hi> where was Dr. <hi>Reeves</hi> the Kings Advocate, and two other Com<g ref="char:EOLhyphen"/>miſſioners, who inſtead of examining of us, fell a Railing at un a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>king us to take the Proteſtation; We Anſwered we had taken one already, which was the King and Parliaments, which we would maintaine to the laſt drop of our bloods,<note n="*" place="margin">I making this Q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſtion, becauſe it was I that ſpake for all of us; They told mee that I ſhould of all the reſt bee han<g ref="char:EOLhyphen"/>ged, ſay<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng you are a pe<g ref="char:EOLhyphen"/>ermtory Rogue indeed.</note> but as for this Proteſta<g ref="char:EOLhyphen"/>tion we know not what it is, nor whoſe Authority if beareth, for we know that the lawes of this Land provide; That no O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th ſhould bee forced on us contrary to conſent in Parliament, which Laws were out Inheritance, and therefore wee would defend and maintaine them as our <hi>proper Rights and Liberties,</hi> and no wayes betray them, or words to this effect: VVee further ſaid that to
+<pb n="8" facs="tcp:125996:5"/> ſweare the Earle of <hi>Eſſex</hi> was a Traytor, or the Army under his conduct was raiſed againſt the Kings, or that the Kings proceed<g ref="char:EOLhyphen"/>ings with his Army was good and neceſſary, or whether the Sub<g ref="char:EOLhyphen"/>jects of <hi>England</hi> were bound, or not bound by the Votes Acts, and Orders made by the Lords and Commons in Parliament, was a high point above our Capacities to decide, and therefore deſired to be excuſed from taking that Oath, conceiving that wee muſt not ſweare upon doubts and queſtions, but in judgement, righteouſnes, and truth. <hi>Smith</hi> he cries out, harke, harke, they are a Preaching; we then complained to them of our ill uſage, and told them it was the way to ſtarve us, and that a many of us were ſicke in the Dun<g ref="char:EOLhyphen"/>geon, and deſired they might bee removed where they might have more Aire, and wee ſaid that wee hoped, that it was not the Kings will, nor the Counſell of VVars pleaſure, thus to deſtroy us: But Dr. <hi>Reeves</hi> told us in plaine termes, that it was the Kings mind, and Counſell of Wars pleaſure to deſtroy us,<note n="*" place="margin">But the Dr. hath forgot his Spectacles would multiply.</note> and took his Spectacles and looked on us, and ſaid we looked as fat as Connies, and ſo wee were ſent backe againe to the Dungeon, and thoſe that were ſicke, grew weaker and weaker: ſo that one eaſed nature as he lay,<note n="*" place="margin">
+                  <hi>Namely one</hi> Giles Carter, <hi>and</hi> Caleb Selfe.</note> and another was troubl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d with a continuall Vomiting; thoſe things were gr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>evous to us, they being done in the place where wee all were; when <hi>Smith</hi> came to Bridewell, we complained to him of it, and deſired him that they might be removed where they might have more aire, and have ſome comfortable thing made, and per<g ref="char:EOLhyphen"/>mitted to come to them, or elſe they would not live long; he cald us, if we would take the Proteſtation we ſhould have any thing; we deſired, but if we would not, if wee all died hee did not care, wee were our owne murtherers, and did not permit any thing more to be allowed, ſave our former Allowance; not any Friend, no not our Wives, to come to ſee us, or any to have our Shifts waſhed: Nay, hee put the Man that dwelt in the Bridewell in Priſon in the Caſtle, becauſe he had meat a boyling over the fire, for his owne dinner, and all <hi>Smiths</hi> men came and eate up the mans meat, ſo that by his cruell uſage, the afore-named <hi>Giles Carter</hi> ended his daies in great extremity.</p>
+            <p>VVe ſeeing this conceived in our ſelves if wee ſtaid here, there was no way but of death and periſhing; did with one conſent re<g ref="char:EOLhyphen"/>ſolve our ſelves of this extreme miſerie, ſo we with our knives, and the hooke of a doore, made a hole through a Free * ſtone wall,
+<pb n="7" facs="tcp:125996:5"/> above a yard thicke, and ſo all that were well went forth, which was about 40. whereof 4. were taken againe, and 6. was left ſicke, in the Dungeon, which 6. (when <hi>Smith</hi> knew the reſt were gone) laid in Irons when we were ſo weake as not able to ſtirre, and ſo kept us till Thurſday, or Friday, having nothing to comfort us, but water; and then wee were removed to the Tower in the Caſtle a<g ref="char:EOLhyphen"/>gaine, wherein the roome where we were put, was about 60. men, and a many ſicke of the ſmall pox, ſo that the place was very un<g ref="char:EOLhyphen"/>wholſome and naſty, and there allowed us one penny bread, and a Can of Beere.</p>
+            <p>I come now to relate to you ſome other of <hi>Smiths</hi> Tyrannicall and diſhoneſt practiſes.</p>
+            <p>When <hi>Marlborow</hi> men were ſick, Smith gave to one Mr. <hi>Betteriſe</hi> a Chyrurgion of <hi>Oxford,</hi> 5, <hi>s.</hi> to provide ſome hot and comfortable things for the ſick<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Priſoners, Mr. <hi>Betteris</hi> laid out ſome of the mo<g ref="char:EOLhyphen"/>ney preſently, after this meeting him in the ſtreet demanded his money of him and threatned him, if he would not give it him, ſo M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Betteriſe</hi> gave him all his 5. <hi>s.</hi> againe, though he had layed out ſome of it before: This Mr. <hi>Betteriſe</hi> did uſe to come at firſt into the Caſtle to dreſſe the wounded Priſoners, and by that meanes knew the diſeaſe of the ſicke Priſoners, did ſay to ſome N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ighbours of his, that they were ſpoil'd for want of water, and ſo indeed they were; for we had no water ſometimes in two dayes time; <hi>Smith</hi> he heares of this, and meeting with Mr. <hi>Betteriſe</hi> put him in Priſon in the Caſtle, for ſo ſaying, but was within a ſhort time by Sir <hi>Iacob Aſhley</hi> releaſed out of the priſon, but by Smith commanded to come no more to dreſſe the wounded priſoners.</p>
+            <p>About this time there were ſome priſoners brought in, which were taken at <hi>Banbury,</hi> and amongſt them was one that was woun<g ref="char:EOLhyphen"/>ded in the head with a Pole-Axe. <hi>Smith</hi> was by the Gentlemen and Captaines in all the faire wayes, intreated to let a Surgeon to come in to dreſſe him, he would not permit any to come, ſo that this mans wounds feſtered and ſtuncke, and in a ſhort time hee ended his dayes in great extremity.</p>
+            <p>There a ſo being in the Tower many Priſoners, and they hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng had no water in 20. na<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, 48. houres time, knockt for water, Oc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>don the Captaines man came and told them hee could help them to none (though the River runne by the doore) they being dry knoc<g ref="char:EOLhyphen"/>ked again, <hi>Smith</hi> came himſelf, &amp; ſaid I will give you water, cauſed
+<pb n="8" facs="tcp:125996:6"/> 3, or 4, of his men to come arm'd to guard his perſon, and cal'd downe one that was my Lord <hi>Saies</hi> Miller, and layes him in Irons Neck and Heeles; and one Sergeant <hi>Wallis</hi> hee Canes him at leaſt 60. blowes over the head, and wounds him very ſorely, that he hath loſt one of his joints, and after this layes him in Irons 28. pound weight, Neck and Heeles, and ſo keepes him 48. houres in a naſty Dungeon, without bread or water, or any other ſuſtenance; and Caned Lievtenant <hi>Whitehead,</hi> and layd him in Irons; and to colour over his Tyranny; commands his men to ſay, they made a mutiny.</p>
+            <p>There was one Mr. <hi>Freeman</hi> a Conſtable neere <hi>Banbury; Smith</hi> cals him to take the Proteſtation, hee refuſes it, Smith ſaid if hee would not take it, he ſhould goe up into the Tower, hee ſaid that was the worſt he could doe to him. Is it ſaies Smith you damned Rogue, and ſtriked him with his Cane, ſweating bitterly at him, la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed him in Irons neck and heeles, ſet him on a cold Stone in the yard, takes away his coat from him, ſets a ſentinel over him, ſo keeps him 30 4 daies in the winter time, without either bread or water, or air, other food: This <hi>Freeman</hi> was alſo removed to the Dungeon in Bridewell, where he eſcaped to his owne houſe, and there was taken againe and brought into the Caſtle; Smith layes him in Irons and ſo he ended his dayes alſo in great miſery.</p>
+            <p>The ſame day he cal'd downe one of <hi>Marlborow</hi> ſouldiers, and offers him the Proteſtation, the youth refuſed it; <hi>Smith</hi> ſweares at him, and beats him with his Cane, layes him neck and heeles in I<g ref="char:EOLhyphen"/>rons, puts him in a Dungeon, ſet a Sentinell over him, ſo keeps him till he had forced him to take the proteſtation, and allowed no food to be given him.</p>
+            <p>There was one Mr. <hi>VVierby</hi> a miniſter, and one Mr. <hi>Price,</hi> and one Mr. <hi>Selven,</hi> that did refuſe the proteſtation; hee ſtrikes them, and breake their heads, makes the blood run downe their eares, and ſends them to the Dungeon in Bridewell.</p>
+            <p>There was one Mr. <hi>Edward Bradney,</hi> that had a man exchanged for him, yet had not his liberty; <hi>Smith</hi> told him if hee could get 10. <hi>l.</hi> to pay his Fees hee ſhould have his liberty. Mr. <hi>Bradney</hi> got 5. <hi>l.</hi> told Smith I have 4. <hi>l.</hi> 10, <hi>s.</hi> Smith ſaid he would not take that, ſo Mr. <hi>Bradney</hi> was putting up his money againe, <hi>Smith</hi> ſnatches his money from him, and ſaid I will keepe this in part or payment; ſo took away foure pound, and kept the man in priſon ſix moneths after; firſt in the Tower, then in the Dungeon in Bridewell, where
+<pb n="9" facs="tcp:125996:6"/> he eſcaped, but was taken againe, <hi>Smith</hi> laid him in Irons hands and feet, and ſo keepes him about 8 weekes: by reaſon of this his cruell uſage, he fell very weak and ſick, and in his ſickneſſe he would not ſuffer any body to come to helpe him in his great extremity, ſo that for three weekes he lay in his owne Dung and piſſe, and ſo by a long and languiſhing diſeaſe, being pined to nothing in, a great deale of woe ended his dayes.</p>
+            <p>There was one <hi>Richard Cawdle,</hi> and one <hi>Robert Neale,</hi> that eſca<g ref="char:EOLhyphen"/>ped out of Bridewell, and were taken againe, he burnt them with match betweene the fingers to the bone, and laid them in Irons hands and feet, ſuffers no Surgeon to come to them, ſo keeps them 8. weekes, and they both in this extremity ended their dayes in much miſery.</p>
+            <p>There was one <hi>Andrew</hi> of <hi>London,</hi> who came to <hi>Oxford,</hi> and being brought into Priſon, Smith himſelfe tooke 23. <hi>s.</hi> out of his pocket, and kept him there a ſhort ſpace, and then turning him go<g ref="char:EOLhyphen"/>ing, but never gave him his money.</p>
+            <p>There was one Mr. <hi>I. A,</hi> the Lord of <hi>Douns</hi> man, brought in for a Spie, he tooke the Proteſtation, and was by Smith releaſed, pay<g ref="char:EOLhyphen"/>ing 50. <hi>s.</hi> fees; and hee comming into the Caſtle to ſee a Friend, <hi>Smith</hi> would not let him goe till he had paid him 50. <hi>s.</hi> more.</p>
+            <p>There was one Mr. <hi>Wilde</hi> a miniſter, a Malignant, committed to priſon, who lay there 7 daies, and paid Smith 3. <hi>l.</hi> 10. <hi>s.</hi> for his Fees.</p>
+            <p>There was two Londoners, Mr. <hi>C.</hi> Mr. <hi>M.</hi> that tooke the pro<g ref="char:EOLhyphen"/>teſtation, that paid <hi>Smith</hi> 20. <hi>l.</hi> for their fees.</p>
+            <p>There was one <hi>William Burthen</hi> a Conſtable, that tooke the pro<g ref="char:EOLhyphen"/>teſtation, and was by Smith releaſed paying 4. <hi>l.</hi> but hee after heard he was a rich man, got him in priſon againe, and there keepes him to make him pay 60. <hi>l.</hi> more, and did not let him goe, till hee had paid him 20. <hi>l.</hi> more.</p>
+            <p>There was one Mr. <hi>Ad.</hi> of <hi>London,</hi> priſoner, Smith tooke 5. <hi>l.</hi> 10. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>illings, out of his pocket, and never gave it him more.</p>
+            <p>There was one Mr. <hi>VV. B.</hi> a Gentleman, whom the Biſhop of <hi>Armath</hi>
+               <note n="*" place="margin">You mayſte by this that if there be any vil<g ref="char:EOLhyphen"/>lany to be done, a Biſhop is at hand to act it,</note> perſwaded to take the proteſtation, hee was releaſed paying 20. <hi>l.</hi> fees; Smith gets him againe and keepes him priſoner, till he had made him pay or given him bond for 30. <hi>l.</hi> more.</p>
+            <p>He alſo got a Bill of Exchange for 30. <hi>l.</hi> from Captaine <hi>Wingate,</hi> and Captaine <hi>Auſten,</hi> but he hath not yet paid them, though he
+<pb n="10" facs="tcp:125996:7"/> hath bin often asked for it, and Captaine <hi>Auſton</hi> asking him for it, <hi>Smith</hi> gave him very opprobious words, calling him ſhit<g ref="char:EOLhyphen"/>ten Prentice boy, and threatned to lay him in Irons, neck and heels.</p>
+            <p>There was one Dr. <hi>Claiton,</hi> Doctor of Divinitie of <hi>Waltom<g ref="char:EOLhyphen"/>ſtow</hi> in <hi>Eſſex</hi> (as he himſelfe ſaid) who was taken at <hi>Branceford,</hi> and carried to <hi>Oxford</hi> Priſon, who lying there in great miſe<g ref="char:EOLhyphen"/>ry, did endeavour to make an eſcape and getting over a wall, fell downe and broke his neck.</p>
+            <p>Captain <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn Lilburne,</hi> he kept him in Irons 19. or 18. daies and ſince he being very ſick, even to death yet w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld not per<g ref="char:EOLhyphen"/>mit any woman to come to look to him in his ſicknes.</p>
+            <p>Captaine <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn Frank in</hi> and Maſter <hi>Iohn Brown</hi> Gentleman, he ironed together, and ſo kept them a good while, and ſince Captaine <hi>Iohn Frankling</hi> is dead.</p>
+            <p>Maſter <hi>William Dingly,</hi> a Lievtenant of Horſe, he laid him in Irons, and ſo kept him 8. or 9 weeks. He kept one Maſter <hi>An<g ref="char:EOLhyphen"/>drew Ellu</hi> (one of my Lord Generalls Life-Guard, a Gentle<g ref="char:EOLhyphen"/>man of the Innes of Court) in the Tower amongſt the Com<g ref="char:EOLhyphen"/>mon Priſoners, and made him to lie on the Boards.</p>
+            <p>Maſter <hi>Iohn Frankling,</hi> Member of the Houſe of Commons, he hath moſt baſely abuſed, and calld him Rogue and damn'd Traytor, yea ſtinking fellow and took him by the ſhoulders, and thruſt him into a little Chamber, ſaying to him you are a damn'd Traytor, and I will uſe you like a Traytor; locks him up cloſe Priſoner, and gives the key to one <hi>Bradſhaw</hi> that was a Cavalier in Priſon, and <hi>Smith</hi> on purpoſe ſet on this <hi>Bradſhaw,</hi> and one Captaine <hi>Cew,</hi> one of the Cavaliers an Iriſh Papiſt, to drinke healths and carrouſes in the roome with Mr. <hi>Frank<g ref="char:EOLhyphen"/>ling,</hi> to abuſe and torment him,<note place="margin">This B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>adſhaw being ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> did confeſſe.</note> and hath ever ſince kept him cloſe Priſoner. And Captaine <hi>Walton,</hi> Captaine <hi>Iohn L lburne,</hi> Captaine <hi>Vivers,</hi> Captaine <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ateſby<g ref="char:punc">▪</g>
+               </hi> Captaine <hi>Scroope</hi> Captaine, <hi>Auſton,</hi> Captaine <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dcot</hi> he hath kept them all cloſe Priſoners, for the moſt part of their time, and ſeldome would permit their friends to come to viſit them, no nor their wives to ſee them.</p>
+            <p>Yea he hath taken away the beds from the Captaines and made them to lye on the cords, and againſt their wills placed ſome of the Cavaliers in them.</p>
+            <pb n="11" facs="tcp:125996:7"/>
+            <p>As for Captaine <hi>Wingate,</hi> he hath alwaies kept him cloſe Pri<g ref="char:EOLunhyphen"/>ſoner alone, without any company, not ſuffering him to con<g ref="char:EOLunhyphen"/>ferre neither with men nor Books, not permit him to have a Bible, onely when <hi>Blage</hi> was hanged. Maſter <hi>Harfeild</hi> Miniſter of <hi>Banbury,</hi> and he was in one Chamber, and <hi>Smith</hi> had layed this Reverend Miniſter in Irons hands and feet, and after that <hi>Blage</hi> was dead brought his body and threw it into the Roome where Captaine <hi>Wingate</hi> and this was, and ſo locked them up all three cloſe Priſoners, and many times <hi>Smith</hi> hath kept thoſe that have died ſo long till they have ſtunk like to poiſon them, nor would not carie them away, till the Priſoners were con<g ref="char:EOLhyphen"/>ſtrained to pay for their buriall. He would not ſuffer Captaine <hi>Wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gate</hi> to walke in the Garden for his health ſake, notwi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<g ref="char:EOLhyphen"/>ſtanding the Kings mind was that he ſhould, as hath been in my hearing declared by the Lord of <hi>Craford.</hi>
+            </p>
+            <p>As for Captaine <hi>Clifton Cot ſby</hi> and Captaine <hi>Vivers,</hi> they being in <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anbury,</hi> his Majeſtie was pleaſed by his Herauld of Arms to declare, that if they would come and yeeld themſelves to Him they ſhould have a free Pardon, the which they did, and had alſo the Lord Generalls word, on his honour to confirme the ſame: yet after this they were brought to <hi>Oxford</hi> Priſon, and by <hi>Smith</hi> kept there, and were before the Lord chiefe Juſtice <hi>Heath,</hi> on <hi>Oyer</hi> and <hi>Termine<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> arraigned for their lives. Whereupon they both of them made a Petition decla<g ref="char:EOLunhyphen"/>ring his Majeſties Act paſſed to them which was acknowledg<g ref="char:EOLunhyphen"/>ed by the Generall<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as appeares plainly by the Anſwer of the Petition,<note n="*" place="margin">The Petition I have ſeen with the Anſwe but as yet <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ann <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> procure he Co<g ref="char:EOLhyphen"/>py of it He would not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cap aine C teſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſe h w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not pay him <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oo pounds for his fee, and ſo alſo he did by Mr. Ha field, Mini<g ref="char:EOLhyphen"/>ſter of <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>bury, and ſo by Cap<g ref="char:EOLhyphen"/>tai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Vive <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. I do not believe any of them committed any fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lt, de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erving any Pa don, but this I ſay accor<g ref="char:EOLhyphen"/>ding to their Proceedings.</note> and thereupon order was given, they ſhould be re<g ref="char:EOLunhyphen"/>leaſed, yet notwithſtanding <hi>Smith</hi> kept them in Priſon cloſe, and by his ill uſuage, Captain <hi>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>teſby</hi> is ſince dead, and Cap<g ref="char:EOLhyphen"/>taine <hi>Vivers</hi> hath bin almoſt at Deaths dore, and is yet Priſon<g ref="char:EOLhyphen"/>er: therefore it behoves the King and the Generall to vindicate their Honour by executing Juſtice on <hi>Smith,</hi> for thus groſely abuſing the King and the Generall</p>
+            <p>He hath kept many in Priſon (after they have been pardon<g ref="char:EOLhyphen"/>ed by the King and have taken the Proteſtation) for exceſsive Fees.</p>
+            <p>But to let all the world ſee he is a knave in all reſpects, and to all perſons friends and foes, he hired a Prieſt to preach in the Priſon, and this Prieſt was as baſe as <hi>Smith</hi> himſelfe, and
+<pb n="14" facs="tcp:125996:8"/> would raile againſt the Parliament and the Citie of <hi>London,</hi> as loud as <hi>Smith,</hi> yet when this Prieſt came to demand his quar<g ref="char:EOLhyphen"/>terage of <hi>Smith,</hi>
+               <note place="margin">P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s it <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that the P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ment <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in the leaſt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſtaken, in ſay<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the King is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and invi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by King <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>naves and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eeves.</note> he to ſave his Money, and deprive the Prieſt, of his due, calls him all to naught, and ſaies to him, you raile againſt the Parliament, you ſhall have quartering, and ſo claps Irons on the poore Prieſt, that he was glad to looſe his Money to be rid of his Irons, and ſo he ſerves all his men, when they aske him for Money, now let all the world judge whether it be for a Kings honour to have ſuch Officers.</p>
+            <p>And further to ſet out his baſe diſsimulation when the Commiſsioners from the Parliament are in <hi>Oxford,</hi> then to make the matter faire as if he were a ſtranger to a Tyrant, he will let the Gentlemen &amp; Captains have liberty to walke in the Garden, and ſuffers their friends and wives to come to them, but as ſoon as ever they are gone forth of the City, he locks them up cloſe Priſoners, and debars all friends, yea their owne wives, and though they be ſick, will not ſuffer them to come to helpe them in their extremity, nor no Phiſitians, but whom he will appoint, which for ought any knowes, may poiſon them, for in a ſhort time there hath died of theſe Gentlemen, Captaine <hi>Liacot,</hi> Captaine <hi>Fleminge,</hi> Captaine <hi>Iohn Frankling,</hi> Captaine <hi>Gaſterill,</hi> Captaine <hi>Stevens, Iunior,</hi> Captaine <hi>Stevens Senior,</hi> Captaine <hi>Plai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r,</hi> Captaine <hi>Auſten,</hi> Captaine <hi>Caſeby,</hi> Liev<g ref="char:EOLhyphen"/>tenant <hi>Flower</hi> Maſter <hi>VVitman</hi> Merchant of <hi>London,</hi> Mr. <hi>Her<g ref="char:EOLhyphen"/>field</hi> Miniſter of <hi>Banbury,</hi> old <hi>Thomas Web,</hi> and three more Clo<g ref="char:EOLhyphen"/>thiers of <hi>Gloceſterſhire.</hi> and 4. more common men, which are before mentioned.</p>
+            <p>There was a Clothier of Gloceſterſhire, which was releaſed, <hi>Smith</hi> got him againe, and kept him in Priſon to make him pay a great Summe of Money, and there the man ended his daies.</p>
+         </div>
+         <div type="narrative">
+            <pb n="13" facs="tcp:125996:8"/>
+            <head>
+               <hi>A True</hi> RELATION OF The taking of <hi>Cirenceſter,</hi> and the cruell dealing of the merciles Cavaliers towards the Priſoners they there took in their paſſage, as they went to <hi>Oxon</hi> and at <hi>Oxon.</hi>
+            </head>
+            <p>UPon <hi>Thurſday</hi> the ſecond of <hi>February</hi> 1642. Prince <hi>Ru<g ref="char:EOLhyphen"/>pert</hi> with a great company of his Cavaliers, came before <hi>Cirenceſtor,</hi> and there after an hot Skirmiſh, they being valiantly reſiſted by about 400. of my Lord <hi>Stamfords Blew Coats,</hi> and Captaine <hi>Wallingfords</hi> Dragooners there being in the Town not above 500. Souldiers, with the Trained Bands and all, yet ſuch was the cruelty of the Cavaliers, ſeeing my Lord <hi>Stam<g ref="char:EOLhyphen"/>fords</hi> Blew-Coats thus valian<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly reſiſting them, and in their reſiſting ſlew many of them ſo that thereby they were much enraged, inſomuch that they ſet on fire a Barn and ſome hou<g ref="char:EOLhyphen"/>ſes, and Hay Ricks, which did much anoy our men, who had overtoyled themſelves with reſiſting them, not being relieved by the Trained Bands which were in the Towne, and by this means were forced to retreat into the Town the Cavaliers pur<g ref="char:EOLhyphen"/>ſuing them, and ſo ſurprized the Towne, and after they had given them Quarter, becauſe they had ſlaine none, before they murthered many of the Inhabitants, about twenty per<g ref="char:EOLhyphen"/>ſons or more;<note n="*" place="margin">Let all Ma<g ref="char:EOLhyphen"/>lignants take notice, that not<g ref="char:EOLhyphen"/>withſtanding they love them and their Cauſe, yet where they get the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ictory, they will make no diffe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ence between a Ma<g ref="char:EOLhyphen"/>l gnant and an honeſt Round<g ref="char:EOLhyphen"/>head.</note> and moſt of them were Malignants againſt the Parliament.</p>
+            <p>After they had thus taken us, we were led into a field about halfe a mile from the Towne where the chiefe Commanders were, that they might take a view of us, who threatned to do
+<pb n="14" facs="tcp:125996:9"/> execution upon us all, and there the Common Souldiers ſtript us, and wounded many of us, and then drove us back to the Church in <hi>Cirencester,</hi> where we remained almoſt two whole daies, and two nights in all, which time they allowed us no ſuſtenance wherewithall to live, till juſt as they drove us to<g ref="char:EOLhyphen"/>wards <hi>Oxford,</hi> they gave each of us a ſmall piece of bread and cheeſe, and then bound us all with match, and ſo drove us a<g ref="char:EOLhyphen"/>long without ſtockings on our legs, or ſhooes on our feet, or hats on our heads, many of us having no Dublets, and ſome Gentlemen of good quality without Breeches and ſo we came to <hi>Burford</hi> hill, where the Cavaliers gave each of us a little piece of Bread, which was all the reliefe they gave us in our way be<g ref="char:EOLhyphen"/>tween <hi>Cirenceſter</hi> and <hi>Oxon,</hi> and for this we waited a long time upon the hill, the wind blowing very cold, and we ſtanding barefoot and bareleg'd in the ſnow. Then we came to <hi>Witneigh,</hi> where we lay in the Church, and from thence were drove to<g ref="char:EOLhyphen"/>wards <hi>Oxon,</hi> and about a mile from the City His Majeſtie with the Prince, and the Duke of <hi>Yorke,</hi> came thither to ſee us drove along more like dogs and Horſes then men, up to the knees in mire &amp; dirt along, the horſe way, &amp; aboundance of the Scollers much rejoycing at our miſery, calling and abuſing us by the names of damned Rogues, and Traytors. And when we came to <hi>Oxon,</hi> we were put all together in the Church, and there we received, for the moſt part of us, a piece of bread that night, the next morning they ſeperated the Voluntiers, from the Trained Bands, and cruelly uſed us to force us all to take the Proteſtation, and take up Arms for them againſt the Parlia<g ref="char:EOLhyphen"/>ment, for they allowed us but one ſmall piece of bread, and a can of B ere a day, and would not allow us to have a draught of water to drinke, we offering to pay Money for it, yet wee could not obtaine it: by which cruell uſuage they forced the moſt of them to take the Proteſtation, that of 1100. and 66. Priſoners, there was but 16. that refuſed it, that they had ſcra<g ref="char:EOLhyphen"/>ped about the Countrey for, for they brought old Almes men, about three or foure ſcore yeare old, and lame Cripples from their mothers wombe blind men, and all to make up the num<g ref="char:EOLhyphen"/>ber of a great many Priſoners, they not only forcing them to take the Proteſtation, but afterwards fined th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m beyond their eſtates, and drove them to other deſperate courſes, ſo that one
+<pb n="15" facs="tcp:125996:9"/> cut his throat, he not dying preſently was asked the reaſon why he did ſo; he anſwered, he was ſo hungry that the Divill tempt<g ref="char:EOLhyphen"/>ed him to cut his throat to be out of his miſery; and divers others of them fell weake and ſick, and were ſent to <hi>Bridewell,</hi> where they died two or three in a day, and one man drawing on towards his end, I and <hi>Edward Leader,</hi> and another, had op<g ref="char:EOLhyphen"/>portunitie to ſpeak unto him, and we asked him what he thought of his laſt end? he ſaid unto us, and fetch d a great ſigh, he could have both ſaid and thinked more if he had refuſed the Proteſtation and kept cloſe to Chriſt, and ſo d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>parted. Whi<g ref="char:EOLhyphen"/>leſt they contiue in the Churches we that were in the Dun<g ref="char:EOLhyphen"/>geon hearing that they wanted bread, gathered 7. ſhillings a<g ref="char:EOLhyphen"/>mongſt us and gave it the woman of <hi>Bridewell</hi> to lay out in bread for them, which ſhe accordingly did and went to the Church to give it them: but ſuch was <hi>Smiths</hi> cruelty, as that he would not permit it to be given them, ſo i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was returned to us againe and thoſe of them that refuſed to take the Proteſtation, he beat and abuſed, tying ſome of them neck and heels, and o<g ref="char:EOLhyphen"/>thers he ſent to the Dungeon, others he brough into the Ca<g ref="char:EOLhyphen"/>ſtle, where we were made to ſtand in the cold yard a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l the fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt day in the ſnow; then at night we were put in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Ha l wh re we continued 3. or 4. daies, without receiving any allowa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce from them whereupon we asked Captaine <hi>Smith</hi> for ſome al<g ref="char:EOLhyphen"/>lowance, he then giving us bitter words, and ſwore at us hid his man give us ſo much bread as he would give a dog a day, and for water let them lap in the yard and be hanged or pox't for a company of damn'd Rogues Dogs or to this eff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct.</p>
+            <p>Then after two or three daies<g ref="char:punc">▪</g> he allowed us halfe a p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nny loafe a day, but we had no water to drinke in two daies toge<g ref="char:EOLhyphen"/>ther. Then we were put up into the Tower and there we were allowed a penny a day in bread and a can of beere, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch was the beſt allowance that ever we received from them lying for the ſpace of 15. weeks on the boards; and by reaſon of this hard uſuage many of us fell ſick, which dr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve us to call from the Tower for more reliefe: whereupon he ſtrikes two of us with his Cane over the head and layes us neck and heels in I<g ref="char:EOLhyphen"/>rons, and kept their allowance from them: and ſince the Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>li<g ref="char:EOLhyphen"/>ament hath ſent downe 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0 for the reliefe of the poore Pri<g ref="char:EOLhyphen"/>ſoners, he hath ever ſince kept away the Kings allowance from us.</p>
+         </div>
+         <div type="letter">
+            <pb n="16" facs="tcp:125996:10"/>
+            <head>The Copy of a Letter written from the Caſtle at <hi>Oxon,</hi> by a Gentleman in Priſon there, confirming the former particu<g ref="char:EOLhyphen"/>lars.</head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>I Cannot but take ſpeciall notice of your reſpects mani<g ref="char:EOLhyphen"/>feſted unto my ſelfe, and all the reſt of the Gentlemen my fellow Priſoners, in ſo kindly writing unto us, and ſend<g ref="char:EOLhyphen"/>ing to ſee how it faires with us, which, true it is there came once a Trumpeter of Captaine <hi>Lidcots,</hi> about the exchange of his Maſter for another, and for his paines he was clapt up Priſoner with his Maſter, and kept there by Captaine <hi>Smith,</hi> till ſuch time as he could conforme unto <hi>Captaine Smiths</hi> will and pleaſure, and take a new Proteſtation, and ſerve in the Ar<g ref="char:EOLhyphen"/>my, which is called the King and his <hi>Captaine</hi> hath here ſince with five more, in 14. daies, ended his daies in a great deale of miſery, and woe. In the laſt Letter which I have ſeen, though the Bearer was not permitted to come in to us, you let us un<g ref="char:EOLhyphen"/>derſtand of that courteous and noble uſuage the Gentlemen that are Priſoners with you find at your hands, and you tell us, that you are ſorry to hear of our hard uſuage, which you hope is not ſo bad as the report goes: Truly let me ſay thus much in briefe, from my very ſoul I doe believe, that the Barbariouſ<g ref="char:EOLhyphen"/>nes inflicted upon the poore Gally ſlaves in <hi>Turky,</hi> cannot pa<g ref="char:EOLhyphen"/>rallell thoſe inhumane cruelties, which abundance of poore men have undergon from the hands of <hi>Sm th</hi> himſelfe: the full particular riſing of which I am confident will fill di<g ref="char:EOLhyphen"/>vers hundred ſheets of Pap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r to make a ſecond Book of Mar<g ref="char:EOLhyphen"/>tyrs with more ſadder Stories then are to be found in Queene <hi>Maries</hi> cruelties:<note place="margin">The <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>riſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s</hi> report</note> A little touch of ſome part of which you may read in the Relation of one Maſter <hi>Wierlay</hi> that broke Priſon here, and in the Letters that divers others put out in Print<note n="(b)" place="margin">In a Let<g ref="char:EOLhyphen"/>ter Intituled a true Rela<g ref="char:EOLhyphen"/>tion of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Priſon<g ref="char:EOLhyphen"/>ers at <hi>Oxon.</hi>
+               </note> and a little more of which you will heare in the Relation of one Mr. <hi>Chillenden,</hi> who with 18. more broke Priſon here
+<pb n="17" facs="tcp:125996:10"/> foure nights agoe for I believe that he will make a Declaration to the world. We have from time to time complained to our friends at <hi>London,</hi> which have hitherto hoped that Letters from the Gentlemen to the Court, of the good uſuage of the Priſo<g ref="char:EOLhyphen"/>ners with them, would have prevailed with His Majeſty &amp; the Generall here, to purchaſe the like for us: but alas it is in vain. We have Petitioned His Majeſtie and the Generall, and Arti<g ref="char:EOLhyphen"/>cled againſt <hi>Smith,</hi> for trancendent cruelties but we never could have hearing by reaſon of the potency of his friends and thoſe damnable Oaths that he hath ſwore againſt us, to which there is no more credit to be given, then to the Divill and thoſe wick<g ref="char:EOLhyphen"/>ed lies that he hath told, and thoſe falſe reports that he hath raiſed on us, and filled the Court full of ſtrange and unheard of matters, that never entred into our hearts to thinke of much leſſe to plot; and thoſe be his uſuall practiſes and evaſions when we complaine of him, ſo that our ſtrugling and complaining hath done us rather more hurt then good, becauſe our friends in Parliament hath not taken the right courſe to deale with their Priſoners, as we have been dealt with; which if they had, they themſelves, I am confident, would long ere this, by their importunate deſires and informations to His Majeſtie, have eaſed us of <hi>Smith,</hi> and purchaſed more liberty for us, ſo that this is our laſt refuge that we have to betake us to, to preſſe our friends immediately to get all their Priſoners of quality clapt up cloſe Priſoners as we are, and uſed in ſome reaſonable pro<g ref="char:EOLhyphen"/>portion to what we are here, and if this be not ſpeedily done I doe verily believe, they will ſcarce ſee the face of one man in ten of us, for ſo neare as I can judge. <hi>Smith</hi> more then Pagan-like cruelty hath already murthered above 40. men yea, above 60. men in this houſe, the blood of all which he is guilty of, for his ſtarving, beating, fettering, clapping head and heels to<g ref="char:EOLhyphen"/>gether, cloſe impriſoning, and other bad uſuage hath already brought the Plague amongſt us, and two poore m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n in the Tower lie ſick of the Plague ſores, as the Chyrurgion, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vers: yet in this great extremity, will not let t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e heavy hearted wife come relieve and nouriſh her ſick and diſtreſſed husband: yea, he hath clapt a Chyrurgeon in Priſon for comming to dreſſe the ſtinking putrified ſores of the wounded and diſeaſed; yea, and the poore people that dreſſed our diet, and waſhed our lin<g ref="char:EOLhyphen"/>nen
+<pb n="18" facs="tcp:125996:11"/> are not permitted to come unto us, yea and though Captaine <hi>Scroope</hi> a Gentleman of quality be vety ſicke, yet will he not ſuffer his Apothecary to come to adminiſter any thing to him.</p>
+            <p>But the ſaddeſt Story of all the reſt in this houſe, might bee ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of one Mr. <hi>Edward Bradneys</hi> ſufferings, who was an honeſt Warwick-ſhire Man, who hath laid a long time in languiſhing death; firſt in this Caſtle, then at Bridewell, and almoſt ever ſince they broke Priſon there, in fetters of Iron, who died yeſterday, whom all the Gentlemen in the Houſe, neither for love nor money, could not intreat Smith nor his Lievtenant (who is growne as bad as himſelfe) to let us have for out money, any poore Woman to looke unto him, ſo that he was forced for 3. We<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kes together to lye in his owne Dung and piſſe, and never was made cleane all that time but once, as thoſe that were neereſt unto him have for cer<g ref="char:EOLhyphen"/>tainty informed me, ſo that they that lay in the Roome with him, and next unto him, have beene allmoſt poiſoned with ſtincke by him; <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a though the poore Priſoners many of them be alm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt ſpent in watching with their f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llow dying Priſoners, yet the inhumane Lievte a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the other night, threw ſtones in at the wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dowes, in a Roome where fou e lay ſick, bec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſe the poore watching Men had b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t a faggot burning to refreſh them, and a Candle bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ning to ſee to give them drinke, and ſuch things as they had for them.</p>
+            <closer>
+               <signed>I reſt your Servant.</signed> 
+               <dateline>
+                  <hi>Oxon Caſtle,</hi> 
+                  <date>
+                     <hi>May</hi> 26. 1643.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="19" facs="tcp:125996:11"/>
+            <head>THE TRUE COPIE OF A Petition and Articles, which the Captaines and Gentlemen in Priſon, prefer<g ref="char:EOLhyphen"/>red to his Majeſties Privie Counſell Com<g ref="char:EOLhyphen"/>miſsioners, and Councell of Warre, againſt SMITH. To the right Honourable the Lords of his Majeſties moſt Honourable Privy Counſell, the Commiſsioners, and the Counſell of Warre aſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mb ed in OXON. The moſt Humble Petition of ſome Priſoners in the Caſtle, at OXON, whoſe Names are hereunto Subſcribed.</head>
+            <opener>Sheweth,</opener>
+            <p>THat we preſume not from any forgetfullnes of our ſad condition, being Priſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers under his Ma eſties high diſpleaſure, and the in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eperable conſequents therewith, which in all humility, and ſenſe of Sorrow we both apprehend and ſubmit unto, or out of any unquiet<g ref="char:EOLhyphen"/>neſſe of diſpoſition to encreaſe trouble to your Lordſhips, to interrupt your gr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at affaires, which we moſt humbly crave pardon for; But the long and ſtill daily <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll intreaty (wee all receive under our Keeper the Provoſt Marſhall Generall Captaine <hi>Smith</hi>) is ſo exorbitant and intollerable, as upon the Reputation of Gentlemen; we profeſſe that a faire paſſage out of this World will be farre more welcome unto us then ſuch a life. A particular of ſome of his Actions we all in humbleneſſe as your Lordſhips ſhall vouchſafe to ſignifie your pleaſures) deſire to preſent unto your Lord<g ref="char:EOLhyphen"/>ſhips, beſeeching your Lordſhips to take them and us into your grave con<g ref="char:EOLhyphen"/>ſideration; And to ſhew your Petitioners ſuch favour and reliefe there<g ref="char:EOLhyphen"/>in, as your Lordſhips ſhall thinke meet.</p>
+            <closer>
+               <signed>
+                  <hi>And we ſhall daily pray,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="14" facs="tcp:125996:12"/>
+            <head>Some Particulars of Captaine <hi>SMITH,</hi> his Cariage towards his Priſoners.</head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> THat we are many of us Cloſe Priſon rs, and ſome in Irons, and other Gentlemen in the Tower amongſt the Common Priſo<g ref="char:EOLhyphen"/>ners, and have been ſtrucke by Captaine <hi>Smith.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> That we are by him lock't up into our Chambers, and debarred the uſe of Pen, Inke and Paper, and the Converſe with any, having Sentinels ſet at our Chamber doores, ſome of us denyed the Com<g ref="char:EOLhyphen"/>fort of ſpeaking with ſuch as come from, and returne unto our Wives and deareſt Friends.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> That we have ſuffered much for neceſſaries; and many of us are Louſie.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> That he doth frequently reproach and provoke us with very baſe language, calling Sir <hi>William Eſſex</hi> old doting Foole and Aſſe, and ſwore that he would lay him head and heeles together, that he hath ſuddenly in great rage, come unto the Captaines and Offi<g ref="char:EOLhyphen"/>cers in the preſence of divers ſtrangers, and his owne Servants; no offence that we know being given, or by him expreſſed, and ſwore that he would lay the proudeſt o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us neck and heeles, and that hee ſpake it to them all in generall, or to any of them in particular; and challenged them now or at any time hereafter, if they were at Li<g ref="char:EOLhyphen"/>berty, to juſtifie it upon them, that he has called ſome of the Cap<g ref="char:EOLhyphen"/>taines Boyes, and other Gentlemen, Iackanapes, Raſcalls and Fooles; and that he would whip their arſes, and lay them in Irons in the Tower.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> That when his priſoners have had no reliefe in 24 houres, and have earneſtly begged for water, and hath with all poſſible reſpect been deſired thereunto, he hath violently fallen upon them, knoc<g ref="char:EOLhyphen"/>king of them downe and beating of them, in as much as ſome of their limbs are likely to be loſt therby, calling them Curs, &amp; proteſt<g ref="char:EOLhyphen"/>ing that he reſpected dogs more then they: ſome of them being Of<g ref="char:EOLhyphen"/>ficers, and after ſuch beating, being caſt into Irons head and heeles, all night, for no other cauſe, then for asking a little water in ſuch extremitie, for want whereof they have beene in ſuch neceſſity, that they have beene conſtrained to drinke their owne Vrine.</p>
+            <pb n="13" facs="tcp:125996:12"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> That he (as we humbly conceive) for his owne private reſpects moſt injuriouſly, charges his priſoners with plots and conſpira<g ref="char:EOLhyphen"/>cies, and hath taken great ſummes of money of them for Fees, and detained ſome of them in great extremity, even to the pre<g ref="char:EOLhyphen"/>judice of their lives, onely for unlimitted fees, unto their utter un<g ref="char:EOLhyphen"/>doing.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> That whereas his Majeſtie out of his great mercy is moſt graci<g ref="char:EOLhyphen"/>ouſly pleaſed to allow his poore Priſoners 6. pence a man <hi>per diem,</hi> yet they received hereof but 5 farthings a day, whereby many of them had been ſtarved, had it not bin for the reliefe of ſome other Priſoners, who made Collection for them: and that Captaine <hi>Smith</hi> his Servant <hi>Rich.</hi> hath gained 2. <hi>s.</hi> out of every five thus collected, for the reliefe of the poore Priſoners, and the ſaid <hi>Rich.</hi> by the al<g ref="char:EOLhyphen"/>lowance of his Maſter, ſelleth beere at an exceſſive rate; to wit that in a Kilderkin of 5. ſhillings, he hath gained 6, or 7. ſhillings.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> That Captaine <hi>Smith</hi> as he ſaid came with an expreſſe command from the King to ſome of his priſoners, and told that his his Ma<g ref="char:EOLhyphen"/>jeſtie himſelfe commanded him that the Gentlemen ſhould have onely bread and water untill they had paid Mr. <hi>Fiſhers</hi> bill of 150. pounds, or there about, a bill that hath cauſed much difference be<g ref="char:EOLhyphen"/>tweene Mr. <hi>Fiſher,</hi> and Captaine <hi>Smith,</hi> conſiſting of Captaine <hi>Smith</hi> his Servants of 7 pounds ſpent by him in wine; a bill of the diet of the ſervants and priſoners, when ſometimes they were in number 60, 70, or 80. one day more, another leſſe, which made it a confuſed bill and reckoning; and did not at all as wee humbly conceived conc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rne any of us; wee having agreed, and Captaine <hi>Smith</hi> promiſed that we ſhould have a 12 penny Ordinary; which wee never refuſed, but was alwayes ready to pay thoſe that had money, and the reſt to give the beſt aſſurance they could for it, and becauſe this 150. pound was nor preſently paid by ſome few of them, they were locked up cloſe Priſoners, and Sentinels ſet in their Chamber doores, to ſee that they received nothing but bread and water, which Captain <hi>Smith</hi> ſwore was the Kings expreſſe com<g ref="char:EOLhyphen"/>mand, but he ſaid he would allow them bread and beere.</p>
+            <p>
+               <hi>This Petition was exhibited about</hi> Allhollantide, 1642. <hi>but by Reaſon of the potency of his friends, we could never have any hearing, though ſince that time wee have preferred many other Peti<g ref="char:EOLhyphen"/>tions.</hi>
+            </p>
+         </div>
+         <div type="testimony">
+            <pb n="22" facs="tcp:125996:13"/>
+            <p>HEre you have ſeene a glimſe of <hi>Smiths Tyranny,</hi> but to repeate all his cruelt es with his cozening, and cheatings, and the c rcumſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nces about him, would make vollume of many ſheets of paper; but by this all the world may ſee how the King is wounded in his honour by ſuch baſt Egyptians, that care for no<g ref="char:EOLhyphen"/>thing but their owne baſe and by ends; therfore thoſe great friends of Smith that have bore him up, and ſtayed the Priſoners off from being heard in their juſt and lawfull requeſts, whereby they might have been righted, and Sm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th have received Juſtice according to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>merits, m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y be aſhamed to poſſ ſſe the King, and ſay they are his friends, when indeed they are his u <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er and onely enemies, that doe all they ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſtaine him in his Juſtice a d Hon ur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herefore I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pe that now they w ll ſee their error, and the King, and Lord Generall of that army will vindic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir honours by doing juſtice one <hi>Smith;</hi> which if <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey doe no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, it wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l lye as a blot on them to all Po terity, and if his Maje<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> pleaſe to grant to mee and other W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>neſſes ag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inſt <hi>Smith,</hi> his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f. conduct and protection, I will prove to im, as I have already here, a l <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heſe pa ticulars upon oath, <hi>Viva voce,</hi> and many more.</p>
+            <p>For ſinc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aine <hi>Wingates,</hi> that honourable and faithfull Gen<g ref="char:EOLhyphen"/>tlemans eſcape, about it <hi>Smith</hi> was in trouble, but was no ſooner reſtored again to his place, but he againe begins to play the Tyrant, hee and his Lievtenant falls upon ſome of t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Gen lemen and wou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds them, likely to kill one Lievtenant <hi>Fuller,</hi> and after that layes him necke and heeles in irons; and a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>other Captaine hee wounds him ſorely and puts him up into the Tower, and lockes all the reſt cloſe priſoners, and ſweares that hee would lay Captaine <hi>Lilburne</hi> in irons, becauſe he did looke out of his Chamber window, he having been ſick, to take the aire: becauſe hee ſaw him play thus the Tyrant, and thus bee his uſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>actices, that men were better be cut of their lives, then come to be under his cuſtody; therefore I hope all the m n of our Army will fight it out to the laſt, and not ſuffer themſelves to be taken, but die rather like me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and brave Souldiers, then to be by him ſtarved and ſtuncke to dea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h.</p>
+            <p>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will now bee looked f r, that I ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld relat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the manner of Captaine <hi>Wingats</hi> and my owne E cape. Thus mu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fe that God in his due time was good to him and mee, and to m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y more,
+<pb n="23" facs="tcp:125996:13"/> all the while hee and I was under this miſery, to ſupport us by his ſtrength, and alſo by his wiſdome and power at laſt, perfectly to deliver us: But to relate the full particular remarkable providences of God to Captaine <hi>Windgate,</hi> and to my ſelfe, and the reſt that did eſcape, would be t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o tedious; but this we ſay, and wee ſpeake the truth, God alſo bearing us witneſſe that we doe not lie, that by many hard and difficult waies we eſcaped, God going along with us apparently, which Captaine <hi>Wingate</hi> deſires and my ſelfe alſo; and all the reſt that did eſcape, that the ſole and onely Honour, Glory, and Praiſe, may be given to GOD.</p>
+            <closer>
+               <signed>
+                  <hi>And ſo deſires your Friends and poore brethren in the de<g ref="char:EOLhyphen"/>fence of the Houſe, to the laſt drop of their bloods,</hi>
+                  <list>
+                     <item>EDMUND CHILLENDEN.</item>
+                     <item>
+                        <hi>Thomas Cheny.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Leader.</hi>
+                     </item>
+                     <item>
+                        <hi>William Gough.</hi>
+                     </item>
+                     <item>
+                        <hi>William Whitlow.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Chamberlaine.</hi>
+                     </item>
+                     <item>
+                        <hi>William Briant.</hi>
+                        <list>
+                           <item>All ſworne before the Lords Aſſembled in Parliament.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Ioſeph Bliſet.</hi>
+                     </item>
+                     <item>
+                        <hi>Daniel Aſhton.</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſtopher Weekes.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Allen.</hi>
+                        <list>
+                           <item>
+                              <hi>Witneſſes not ſworne.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="24" facs="tcp:125996:14"/>
+            <head>TO THE <hi>HONO<g ref="char:V">Ʋ</g>RABLE</hi> VVILLIAM LENTALL SPEAKER of the Honourable Houſe of <hi>COMMONS.</hi>
+            </head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>THE grievous burthen of miſerable thraldome, which we in Captivity now groane under, preſents it ſelfe to your ſelfe to your ſerious conſideration relying on your Favour and compaſsion for ſpeedie redreſſe: wee had not thouht that ever we who have adventured our lives and For<g ref="char:EOLhyphen"/>tunes, to maintaine and preſerve the true Proteſtant Religi<g ref="char:EOLhyphen"/>on. His Majeſties Perſon, and juſt Prerogative, the Lawfull Liberty of the Subject, and the juſt Priviledges of <hi>Parliament,</hi> ſhould be ſo ſoone obliterated out of your memory, and left to the more then Pagan uſage of Tyrannicall and mercileſſe men; we are not onely deprived of the ſociety of our Friends, of pen, Inke, and Paper, but what we have by ſtealth, where<g ref="char:EOLhyphen"/>by we might acquaint ſome of our charitable Friends of our languiſhing condition: but wee have no allowance from his Majeſty, ever ſince we came in, and but ſmall allowance from the Members of the Houſe of <hi>Parliament</hi> here with us, becauſe they cannot get Money in the Towne, nor if they could get it, will <hi>Smith</hi> the Marſhall Generall ſuffer it to be broug<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t in<g ref="char:EOLhyphen"/>to them: ſo that we are bereaved of almoſt all the meanes of livelihod, for when we have been ready to faint for want of water, to ſatisfie our Languiſhing thirſt, having not a penny
+<pb n="25" facs="tcp:125996:14"/> to buy us beere, the ſaid <hi>Smith</hi> hath taken the keyes from his man, who was about to fetch us the water, layde him in Irons, vexing him very much, for that he aſſayed to doe us that cur<g ref="char:EOLhyphen"/>teſie, afterwards tooke off his cloathes, and turn'd him out of doores. And when ſome have asked him, wheher his Maje<g ref="char:EOLhyphen"/>ſty allowed us any thing as Priſoners, hee hath after a moſt ignominious manner reviſed us, giving us no better Termes than Rebells, Traytours, and Parliamentary Rogues, ſaying eate ſtones yee Round-head rogues and bee hanged, in like manner, threatning all of us that will not take their ſoule con<g ref="char:EOLhyphen"/>demning Proteſtation, to take up Armes and joyne with them againſt the moſt Honourable Court of <hi>Parliament,</hi> and my lo<g ref="char:EOLhyphen"/>ving Generall his Excellency; and likewiſe goe to erect their Bulwarkes, which if any refuſe to doe, he is immediately caſt into the Dungeon, laid neck and heeles together, with Bolts of five and thirty pound, permitting none to adminiſter him any comfort (which cruelty with abundance of menacing words, having no hope of any intermiſsion, of this inſuppor<g ref="char:EOLhyphen"/>table burden of miſery, hath ſtruck ſuch terrour in the hearts of many of the Priſoners, that they have taken their Proteſta<g ref="char:EOLhyphen"/>tion and engaged themſelves to ſerve as afore, which hath coſt many poore priſoners their lives, whoſe bloud will one day be inquired after, at the hands of thoſe who were the efficient Cauſers thereof; yea even the Parliament men themſelvs here with us, have been ſo reſtrained of their Liberties, that they have been lockt up and, confined to ſtay in their chambers for three or foure dayes together, and not ſuffered to have any communication with the other Captaines their fellow Priſo<g ref="char:EOLhyphen"/>ners, neither have had Meat, Drinke or water, but what hath been conveyed to them by ſtealth, and have been enforced to eaſe Nature and throw it out of their Windowes; and all this becauſe they have endeavoured for releive by meanes whereof Maſter <hi>Francklyn</hi> a Parliament man lies now a dying. And that which more augments our grievances is, that we are not onely confined to lye on the bare boards, on the Tables, under the Tables, on the chymneyes hearth, nay on the very ſtayres, and ſometimes on the top one of another, whereby is bred ſuch a noyſome ſtinke, that it infecteth very many with the peſti<g ref="char:EOLhyphen"/>lent Feavour, and other very dangerous diſeaſes, there being,
+<pb n="26" facs="tcp:125996:15"/> at this inſtant of time about twenty perſons infected amongſt us, and in our Judgement paſt recovery: the diſeaſe being ſo violent that i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ite bereaveth them of their ſenſes: In this deplorable condition we beſeech you thinke on ſome meanes to revive our dying nay almoſt dead Spirits, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at wee may once againe injoy our Freedome which we have been ſo long time bereav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of, or take ſome courſe with the beſt of them which you have Priſoners with you to keep them ſhort, and barre them of their Liberty as we are, to the end that they may with more earneſtneſſe ſollicite their Friends, and negotiate to procure their inlargements by exchanging of us; for wee are credibly informed, and doe beleive it to be true, that they have ſo much Libertie and Favour at <hi>London,</hi> and elſewhere, that they need not care much for their impriſonment. In a word if we are not ſpeedily exchanged, or ſome courſe taken for our better uſage which now is inſufferable: many amongſt us we feare will change themſelves from being our Friends, and become our Enemies, and be as active in Tyrannizing over us as any that have been forced to apoſtatize from us; wee beſeech God ſo to direct the powers of your minde, that you may with all ſedulity importune and direct in our behalfe to the moſt Honourable Court of Parliament, and then we doubt not, but God will bleſſe your and our Endeavours, to whoſe protection we commend you, and remaine</p>
+            <closer>
+               <signed>Your humble Servants, though diſtreſſed Captives.</signed>
+               <dateline>From our extraordinary cruell bondage in <hi>Oxford</hi> Caſtle, <date>this 19. of <hi>Iuly,</hi> 1643.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_names">
+            <pb n="27" facs="tcp:125996:15"/>
+            <head>The NAMES of the Priſoners.</head>
+            <list>
+               <item>HVmphrey Morgon.</item>
+               <item>William Andrewet.</item>
+               <item>Thomas Fipps.</item>
+               <item>Timothy Code.</item>
+               <item>Foulke Greffes.</item>
+               <item>Robert Grage.</item>
+               <item>Io. Geuton.</item>
+               <item>Iohn Gleed.</item>
+               <item>St. Richards.</item>
+               <item>Iohn Burkhill.</item>
+               <item>Iames Clerring.</item>
+               <item>Richard Bradſhaw.</item>
+               <item>Edward Parricke.</item>
+               <item>Thomas Wells.</item>
+               <item>Io. Williams.</item>
+               <item>Humphrey Lebbes.</item>
+               <item>Thomas Dungeon.</item>
+               <item>Thomas Gibbs.</item>
+               <item>William King.</item>
+               <item>Iohn Gell.</item>
+               <item>Maurice Mocor.</item>
+               <item>VVilliam Wood,</item>
+               <item>Richard Symons.</item>
+               <item>Ioſeph Ratclyffe.</item>
+               <item>Iohn Walter.</item>
+               <item>Joſeph Amye.</item>
+               <item>Ioſeph Ruſhaley.</item>
+               <item>Iohn Adler.</item>
+               <item>John Gelcot.</item>
+               <item>Chriſtopher Fowler.</item>
+               <item>Richard Mixon.</item>
+               <item>Nathaniel Smith.</item>
+               <item>Richard Frith.</item>
+               <item>Iohn Overton.</item>
+               <item>Richard Weauright,</item>
+               <item>William Baenes.</item>
+               <item>Thomas Hartwell.</item>
+               <item>Edward Keepe.</item>
+               <item>VVilliam Elkoanley.</item>
+               <item>VVilliam Aſhley.</item>
+               <item>Robert Childe.</item>
+               <item>Io. Reade.</item>
+               <item>Clement Prat.</item>
+               <item>Iohn Shaw.</item>
+               <item>George Sharpe.</item>
+               <item>Cha. Smith.</item>
+               <item>Richard Smith.</item>
+               <item>VVilliam Croley.</item>
+               <item>Edward Huggens.</item>
+               <item>Richard VVhitehead <hi>Lievte.</hi>
+               </item>
+               <item>Roger Cotrill <hi>Lievtenant.</hi>
+               </item>
+               <item>Io. Reeve <hi>Serg. to the Earle of Stamford.</hi>
+               </item>
+               <item>Henry Fitzherbert.</item>
+               <item>Edward Fitzherbert.</item>
+               <item>Iames Cragford.</item>
+               <item>Andrea Peſt <hi>Quarterma<g ref="char:EOLhyphen"/>ſter.</hi>
+               </item>
+               <item>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aurce Iames.</item>
+               <item>Arthur Roſe.</item>
+               <item>Scapcot Perdes.</item>
+               <item>George Roſe.</item>
+               <item>Robert Holly.</item>
+               <item>Iohn VVilye.</item>
+               <pb n="14" facs="tcp:125996:16"/>
+               <item>Nathaniel Cambridge.</item>
+               <item>William Hawkes.</item>
+               <item>Iohn Butchius:</item>
+               <item>Iohn Grage.</item>
+               <item>Ienkyn Price.</item>
+               <item>VVilliam Hughes.</item>
+               <item>
+                  <hi>With many others that are ſo ſicke that they are notable to ſubſcribe.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Francklyn <hi>is ſince the penning of this dead, by</hi> Smiths Cruelty.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:125996:16"/>
+            <head>A POSTSCRIPT.</head>
+            <p>Some things more which Jhere adde, as his fiſhing one Mr. <hi>Fſheirs-houſe,</hi> claping him priſoner in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ower a m ſt ſtarving him, afterwards ceaſing on his goods, turning <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, his Wife and Family out of doores, and alſo his ſeizing o t <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ctor <hi>Gardens</hi> houſe, and turning Miſtris <hi>Garden</hi> into <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſtreet, after he had beat and pinched her, and moſt baſely abuſed her: neither have I ſet forth his pedigree, and what hath been his manner of life, which hath alwayes been baſe enough, as ap<g ref="char:EOLhyphen"/>peares by the Teſtimony of one Mrs. <hi>Houſe</hi> of <hi>Chicheſter,</hi> where this <hi>Smith</hi> with his Family did lye about a yeare, who to get into Favour diſſembled himſelfe a puritan, and muſt needs have a Miniſter ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt for to ſatisfie his troubled Conſcience, and when his diſſembledneſse could no longer be hid, he abuſed them and railed on them, and went away not paying them a farthing, this hath been his continuall courſe to live by cheating and coz<g ref="char:EOLhyphen"/>ning. Therefore I deſire the State would be pleaſed to take into their conſideration, the m ſery that poore honeſt men are like to ſuffer under hand, &amp; to keep al the common priſoners they take to exchange them for our common men, which they never let free, but alwayes keep, yea, and doe much abuſe them. Theſe things J have written to let all the World ſee and know the truth, which if they will not yet believe I wiſt, they had ſeen and felt it as much as I. And whereas ſome men ſay their priſoners here ſuffer as much <hi>I</hi> deny it, becauſe I have been in the Priſons both here in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and at <hi>Windſor,</hi> and finde it is altogether falſe, whatſoever Malignants report.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
